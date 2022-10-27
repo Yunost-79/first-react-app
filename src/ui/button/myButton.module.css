@@ -1,0 +1,16 @@
+.myBtn{
+  padding: 6px 15px;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid teal;
+  border-radius: 5px;
+  color: teal;
+  cursor: pointer;
+  transition: 0.3s all;
+}
+
+
+.myBtn:hover,
+.myBtn:active {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-color: rgba(0, 0, 0, 0.1);
+}
